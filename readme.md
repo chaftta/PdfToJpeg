@@ -12,6 +12,14 @@
 ## popplerのダウンロードと配置
 
 githubからpopplerをダウンロードして、pdf_to_jpeg.pyのディレクトリから相対でpoppler/binにpopplerのexe達を配置します。
+windows用バイナリはgithubからダウンロードできると思います。
+
+配置イメージ
+
+	pdf_to_jpeg.py
+	poppler/bin/*.dll
+	poppler/bin/*.exe
+
 
 ## 使い方
 
